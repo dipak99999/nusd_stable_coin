@@ -17,7 +17,7 @@ nUSD is a decentralized stablecoin built on the Ethereum blockchain. It is backe
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
 - Install [Hardhat](https://hardhat.org/)
-- Install Metamask
+- Install Metamask [sepolia testnest deployed]
 
 ## Setting Up
 ### 1. Clone/Download the Repository
